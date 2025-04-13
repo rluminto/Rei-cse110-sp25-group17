@@ -9,7 +9,11 @@
 
 ## Meet the Members
 - [Wilson]()
-- [Jongwon]()
+- [Jongwon Lee](https://jongwonlee123.github.io/Review/)
+  - More info if you want (I will change this later just for reference)
+  - Point 1
+  - Point 2
+  - Point 3
 - [Emily Liu]()
 - [Giana]()
 - [Henry]()
