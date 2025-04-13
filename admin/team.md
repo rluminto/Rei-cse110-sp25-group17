@@ -1,20 +1,19 @@
 # Null Terminators
 <!-- logo -->
 ![Logo](/)
-## Values
-1.  
+## Rules
+1. Treat each other with respect
 
 ## Meet the Members
-- Wilson
-- Jongwon
-- Emily Liu
-- Giana
-- Henry
-- Jonathan
-- Joseph
-- Lawrence
-- Melissas
-- Reiner
-- Suhani
-- Vedant
-
+- [Wilson]()
+- [Jongwon]()
+- [Emily Liu]()
+- [Giana]()
+- [Henry]()
+- [Jonathan]()
+- [Joseph]()
+- [Lawrence]()
+- [Melissas]()
+- [Reiner]()
+- [Suhani]()
+- [Vedant]()
