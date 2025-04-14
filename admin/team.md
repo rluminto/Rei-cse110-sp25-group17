@@ -18,7 +18,7 @@
   - Point 3
 - [Emily Liu](https://emily3035497723.github.io/)
   - Developer
-- [Giana]()
+- [Giana](https://ggesm.github.io/CSE110/)
   - Developer
 - [Henry](https://huynhhenry.github.io/CSE110_Lab1/)
   - Developer
