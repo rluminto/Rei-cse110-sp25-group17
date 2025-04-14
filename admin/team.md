@@ -1,4 +1,4 @@
-<img width="736" alt="image" src="https://github.com/user-attachments/assets/28438b0e-2139-4bf7-9055-1444cdf2debc" /># Null Terminators
+# Null Terminators
 <!-- logo -->
 ![Logo](/admin/branding/logo.png)
 ## Rules
@@ -12,10 +12,6 @@
   - Team Lead
 - [Jongwon Lee](https://jongwonlee123.github.io/Review/)
   - Team Lead
-  - More info if you want (I will change this later just for reference)
-  - Point 1
-  - Point 2
-  - Point 3
 - [Emily Liu](https://emily3035497723.github.io/)
   - Developer
 - [Giana](https://ggesm.github.io/CSE110/)
