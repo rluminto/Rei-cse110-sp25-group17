@@ -1,6 +1,6 @@
 # Null Terminators
 <!-- logo -->
-![Logo](/admin/branding/logo.png)
+![Logo](https://raw.githubusercontent.com/cse110-sp25-group17/cse110-sp25-group17/main/admin/branding/logo.png)
 ## Rules
 1. Treat each other with respect
 2. Make sure to check slack twice a day
