@@ -17,7 +17,7 @@
 - [Emily Liu]()
 - [Giana]()
 - [Henry]()
-- [Jonathan]()
+- [Jonathan](https://jkook9513.github.io/CSE110-LAB1/)
 - [Joseph](https://impropabletank.github.io/GitHub-Pages-project/)
 - [Lawrence]()
 - [Melissas]()
