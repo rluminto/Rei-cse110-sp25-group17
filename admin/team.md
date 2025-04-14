@@ -20,7 +20,7 @@
 - [Jonathan](https://jkook9513.github.io/CSE110-LAB1/)
 - [Joseph](https://impropabletank.github.io/GitHub-Pages-project/)
 - [Lawrence]()
-- [Melissas]( https://melissadelacruz.github.io/Melissas-Webpage/)
+- [Melissa]( https://melissadelacruz.github.io/Melissas-Webpage/)
 - [Reiner]()
 - [Suhani](https://suhanii2310.github.io/CSE110_Lab1/)
 - [Vedant]()
