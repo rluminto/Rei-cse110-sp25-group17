@@ -20,7 +20,7 @@
   - Developer
 - [Giana]()
   - Developer
-- [Henry]()
+- [Henry](https://huynhhenry.github.io/CSE110_Lab1/)
   - Developer
 - [Jonathan](https://jkook9513.github.io/CSE110-LAB1/)
   - Developer
