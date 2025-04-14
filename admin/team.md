@@ -16,7 +16,7 @@
   - Point 1
   - Point 2
   - Point 3
-- [Emily Liu]()
+- [Emily Liu](https://emily3035497723.github.io/)
   - Developer
 - [Giana]()
   - Developer
