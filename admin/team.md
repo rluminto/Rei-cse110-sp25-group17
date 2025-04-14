@@ -1,4 +1,4 @@
-# Null Terminators
+<img width="736" alt="image" src="https://github.com/user-attachments/assets/28438b0e-2139-4bf7-9055-1444cdf2debc" /># Null Terminators
 <!-- logo -->
 ![Logo](/admin/branding/logo.png)
 ## Rules
@@ -26,7 +26,7 @@
   - Developer
 - [Joseph](https://impropabletank.github.io/GitHub-Pages-project/)
   - Developer
-- [Lawrence]()
+- [Lawrence](https://github.com/lnovilla8/CSE-110-Lab-1/tree/readme-change)
   - Developer
 - [Melissa]( https://melissadelacruz.github.io/Melissas-Webpage/)
   - Developer
