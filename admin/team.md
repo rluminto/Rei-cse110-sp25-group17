@@ -30,5 +30,5 @@
   - Developer
 - [Suhani](https://suhanii2310.github.io/CSE110_Lab1/)
   - Developer
-- [Vedant]()
+- [Vedant](https://vedantpatel04.github.io/GH_Pages_Project/)
   - Developer
