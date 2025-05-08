@@ -1,5 +1,5 @@
 # 5/7/25 Meeting
-Time: 12:00 PM - : <br>
+Time: 12:00 PM : 2:35 PM
 Location: CSE B240
 ## Attendance:
 - Wilson Zhu
@@ -26,3 +26,6 @@ Location: CSE B240
   - Needs and Expectations
   - Rules and activities
 - Discussed meeting at a certain time every week (early on in the week and on the weekend). 
+- We then continued working on our CI/CD assignment
+  - We created the diagram for our CI/CD pipeline
+  - Tested some of our pull request system, to ensure our merge protections are working properly
