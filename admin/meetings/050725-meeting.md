@@ -25,3 +25,4 @@ Location: CSE B240
   - People, Roles and Accountabilities
   - Needs and Expectations
   - Rules and activities
+- Discussed meeting at a certain time every week (early on in the week and on the weekend). 
