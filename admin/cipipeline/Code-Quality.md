@@ -1,4 +1,4 @@
-## ✅ Code Quality (Automated + Human Review)
+## Code Quality (Automated + Human Review)
 
 High-quality code is the foundation of sustainable software. In our CI/CD pipeline, **code quality** refers to how well the code adheres to standards of **readability, maintainability, performance, testability**, and **scalability**. To ensure this, we enforce quality through both **automated tools** and **human review workflows**.
 
